@@ -1,2 +1,2 @@
 https://whitepaek.tistory.com/3 #MacOs MySQL
-https://dev.mysql.com/downloads/file/?id=507824 #WinOs MySQL
+https://dev.mysql.com/downloads/file/?id=507335 #WinOs MySQL
